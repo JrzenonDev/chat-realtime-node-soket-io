@@ -1,0 +1,19 @@
+{
+  "name": "chat-realtime-node-soket-io",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": "https://github.com/JrzenonDev/chat-realtime-node-soket-io.git",
+  "author": "JrzenonDev <jrobertoonb@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "jsonwebtoken": "^8.5.1",
+    "moment": "^2.29.1",
+    "mongose": "^0.0.2-security",
+    "pagarme": "^4.17.0",
+    "react-native-crypto-js": "^1.0.0"
+  }
+}
