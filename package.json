@@ -12,7 +12,7 @@
     "http": "^0.0.1-security",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.29.1",
-    "mongose": "^0.0.2-security",
+    "mongoose": "^5.12.13",
     "pagarme": "^4.17.0",
     "react-native-crypto-js": "^1.0.0"
   }
