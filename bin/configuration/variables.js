@@ -1,12 +1,16 @@
 const variables = {
+  Api:{
+    port:process.env.port || 3333
+  },
   Database: {
     connection: process.env.connection
   },
   Security: {
-    secreteKey: process.env.secretKey
+    secretKey: process.env.secretKey
   },
   Pagarme: {
-    pagarmeKey: process.env.pagarme
+    pagarmeKey: process.env.pagarme,
+    pagarmeKeyTest: process.env.pagarmetest
   }
 }
 
